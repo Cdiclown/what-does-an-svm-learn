@@ -321,5 +321,29 @@ https://github.com/ml-for-nlp/authorship-attribution
 University of Trento
 
 
+---
+## License
 
+### Code
 
+Unless otherwise stated, all **source code** in this repository is licensed under the [MIT License](LICENSE).
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, subject to the terms of the MIT License.
+
+### Reports, Papers, and Written Content
+
+Unless otherwise stated, all **reports, papers, reviews, documentation, and other original written content** in this repository are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+Under CC BY 4.0, you are free to:
+
+* **Share** — copy and redistribute the material in any medium or format.
+* **Adapt** — remix, transform, and build upon the material, including for commercial purposes.
+
+The following conditions apply:
+
+* **Attribution** — you must give appropriate credit to the author, provide a link to the license, and indicate if changes were made.
+* You may not imply that the author endorses you or your use of the material.
+
+For the full license terms, see the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Unless otherwise stated, © 2026 [Your Name]. All rights reserved for materials not covered by the licenses above.
