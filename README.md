@@ -346,4 +346,4 @@ The following conditions apply:
 
 For the full license terms, see the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-Unless otherwise stated, © 2026 [Your Name]. All rights reserved for materials not covered by the licenses above.
+Unless otherwise stated, © 2026 Chiara Tosadori. All rights reserved for materials not covered by the licenses above.
